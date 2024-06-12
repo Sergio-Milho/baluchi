@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "828428596388",
+    "project_id": "baluchi-62b82",
+    "storage_bucket": "baluchi-62b82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828428596388:android:cafc3a56810f7de01ae231",
+        "android_client_info": {
+          "package_name": "com.example.baluchi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtTDXf6ZU7s8HCsEXodAvHtlJa5alx6a8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
